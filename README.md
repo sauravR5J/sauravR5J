@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saurav.
-- 👀 I’m interested in Data Driven Tech.
-- 🌱 I’m currently working in, as well as building skills w.r.t AI/ML.
-- 💞️ I’m open to collaborate on AI and AWS.
+- 👀 I’m interested in Python and Data Driven Tech.
+- 🌱 I’m currently working as a Python Developer, as well as building skills w.r.t AI/ML.
+- 💞️ I’m open to collaborate on Pytho, AI and AWS.
 - 📫 How to reach me : pradhan.saurav133@gmail.com
 
 <!---
